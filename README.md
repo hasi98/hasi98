@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasith98" target="blank"><img src="https://img.shields.io/twitter/follow/hasith98?logo=twitter&style=for-the-badge" alt="hasith98" /></a> </p>
 
-- Hi, I'm currently working on **Twitter clone**
+- Hi, I'm currently working on **Tesla clone**
 
 - 🌱 I’m currently learning **Next.js, React, Python**
 
